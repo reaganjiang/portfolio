@@ -1,4 +1,4 @@
-# Reagan Jiang — Business Web Application Developer
+# Business Web Application Developer
 
 I build web applications that help businesses manage their operations, data, and workflows.
 
